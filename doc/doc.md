@@ -31,3 +31,31 @@ iothub.thingworks.cn:1883
 ###### 指标
 ###### 指标（小）
 
+## Device Ref Design & tools
+
+###### 注意
+- 新手指引： [起步走 - 接入传感器数据](www.zhangkong365.com) 
+- 上报格式协议请参考 [DOC - DATA ACCESS](www.zhangkong365.com) 
+
+
+### 概念
+
+###### 指标（Indicator）
+- 物联网的数据接入概念
+- 指标的格式定义(Float)
+- 指标是唯一的
+- 指标ID的生成是通过掌控来完成
+- 可以通过 [API](www.zhangkong365.com) 来自动创建指标
+
+### 参考设计
+
+###### 设备部署
+- 设备部署的时候需要对指标进行命名
+
+###### 安全
+password
+
+###### 连接
+
+### 安装引导
+
