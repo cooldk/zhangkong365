@@ -2,12 +2,12 @@
 ## 起步走
 让开始掌控第一个数字场景：天气预报
 ###### 前提条件
-- **注意**：在开始本教程之前，请先[下载](www.zhangkong365.com/download)手机APP
-- [注册](www.zhangkong365.com)掌控帐号
+- **注意**：在开始本教程之前，请先[下载](https://github.com/cooldk/zhangkong365/blob/master/doc/download.md)手机APP
+- [注册](http://www.thingworks.cn/console/)掌控帐号
 
 ###### 第一步：登陆
 - 请在手机上登陆您的帐号
-- 请在[后台](www.zhangkong365.com/console/)上登陆您的帐号
+- 请在[后台](http://www.thingworks.cn/console/)上登陆您的帐号
 ###### 第二步：创建场景
 - 点击创建
 - 输入场景名称：天气预报
