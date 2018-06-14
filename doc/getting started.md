@@ -7,11 +7,11 @@
 
 ###### 前提条件
 - **注意**：在开始本教程之前，请先[下载](https://github.com/cooldk/zhangkong365/blob/master/doc/download.md)手机APP
-- [注册](http://www.thingworks.cn/console/)掌控帐号
+- [注册](http://console.zhangkong365.com/)掌控帐号
 
 ###### 第一步：登陆
 - 请在手机上登陆您的帐号
-- 请在[后台](http://www.thingworks.cn/console/)上登陆您的帐号
+- 请在[后台](http://console.zhangkong365.com/)上登陆您的帐号
 ###### 第二步：创建场景
 - 请在左边控制台点击应用
 - 请在右边点击创建
@@ -59,7 +59,7 @@
 - 查看刚刚添加的指标的ID
 
 ###### 第六步：上报数据（MQTT）
-- 上报地址 iothub.thingworks.cn
+- 上报地址 iothub.zhangkong365.com
 - 上报端口 1883
 - 数据是json格式，具体格式如下
 
