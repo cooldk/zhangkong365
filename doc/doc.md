@@ -31,7 +31,7 @@
 ## 数据接入 & 设备参考设计
 
 ###### 注意
-- 新手指引： [起步走 - 接入传感器数据](www.zhangkong365.com) 
+- 新手指引： [起步走 - 接入传感器数据](console.zhangkong365.com) 
 
 ### 概念
 
@@ -43,4 +43,4 @@
 - 指标的格式定义(Float)
 - 指标是唯一的
 - 指标ID的生成是通过掌控来完成
-- 可以通过 [API](www.zhangkong365.com) 来自动创建指标
+- 可以通过 [API](console.zhangkong365.com) 来自动创建指标
